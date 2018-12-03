@@ -3,9 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^16.6.3",
+    "lodash": "^4.17.11",
+    "react": "^16.7.0-alpha",
     "react-chat-ui": "^0.3.2",
-    "react-dom": "^16.6.3",
+    "react-dom": "^16.7.0-alpha",
     "react-scripts": "2.1.1"
   },
   "scripts": {
